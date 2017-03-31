@@ -3,5 +3,5 @@ package factory;
 public interface PostCode {
 	/**
 	 */
-	public boolean isValidPostalCode(String postalCode);
+	public boolean ________________; //> 4
 }
